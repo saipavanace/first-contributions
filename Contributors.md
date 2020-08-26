@@ -24,6 +24,7 @@
 - [Jakub Gawroński](https://github.com/gawronskijakub)
 - [Pinky](https://github.com/PinkyWalia)
 - James Hall
+- Sai Yaraguti
 - [Benjamin Allan-Rahill](https://github.com/benjamin-allanrahill)
 - [Mirac Can Yılmaz](https://github.com/miraccan61)
 - [Alex Juan](https://github.com/yyalexyy)
